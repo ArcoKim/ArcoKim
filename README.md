@@ -36,5 +36,5 @@
 
 # Stats
 ![ArcoKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcokim&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcoKim&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjeongtae)](https://solved.ac/kimjeongtae)
