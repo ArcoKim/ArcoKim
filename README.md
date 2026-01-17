@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&fontAlignY=42&text=JeongTae%20Kim&color=gradient&animation=twinkling)
 
 # Hello, World!
-😄 Hello, I am Jeongtae Kim, a high school student and a developer.
+😄 Hello, I am Jeongtae Kim, a software developer.
 
 👍 I like all areas of development and learn a lot.
 
